@@ -1,0 +1,21 @@
+{
+  "name": "mailworx-api",
+  "version": "1.0.0",
+  "description": "wrapper for the mailworx api",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mailworx/nodejs-wrapper"
+  },
+  "keywords": [
+    "mailworx"
+  ],
+  "author": "mailworx",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
